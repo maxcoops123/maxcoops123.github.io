@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Profile"
+  name             : "Max Cooper"
   avatar           : "IMG_1998.jpg"
-  bio              : "Socials"
+  bio              : "Environmental Science Student At UMBC"
   location         : "Edgewater, MD"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "maxcoops123@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
