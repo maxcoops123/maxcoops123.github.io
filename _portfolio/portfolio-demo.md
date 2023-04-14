@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Demo"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/VacancyRateMap.png'>"
+excerpt: "Vacany Rate Map of Baltimore City<br/><img src='/images/VacancyRateMap.png'>"
 collection: portfolio
 ---
 
