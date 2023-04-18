@@ -1,6 +1,6 @@
 ---
 title: "Baltimore White Population Percentages"
-excerpt: "Tessalation of White Population From Census Data<br/><img src='/images/percentwhite3.png'>"
+excerpt: "Tessalation of White Population From Census Data<br/><img src='/images/percentwhite5.png'>"
 collection: portfolio
 ---
 
