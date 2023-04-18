@@ -4,7 +4,8 @@ excerpt: "Tessalation of White Population From Census Data<br/><img src='/images
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Summarized Percentages using a hexagonal grid of white population percentage of total recorded population in Baltimore City. Data from ACS 5 year survey and map produced in QGIS.
 
 ![Map](/images/percentwhite2.png "PercentMap")
 ![PercentScale](/images/scale2.png "Scales")
