@@ -10,6 +10,7 @@ Using the qgis2web plugin on QGIS i was able to create this interactive web map 
 
 This map has a few layers you can click on and off in the top right, you can also click on the points to find out more information like what type of material the park is made out off and if there is lights. 
 
-<a href="<a href="index.html">Link to HTML file</a>
+<a href="index.html" target="_blank">Open HTML file</a>
+
 
 ![Skate](/images/skate.png "FreedomPlazaDC")
