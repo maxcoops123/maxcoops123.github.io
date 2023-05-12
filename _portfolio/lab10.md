@@ -1,4 +1,3 @@
-
 ---
 title: "Skateparks in The North East!"
 excerpt: "Skateparks by Surface Materials<br/><img
