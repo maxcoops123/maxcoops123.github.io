@@ -1,7 +1,8 @@
 
 ---
 title: "Skateparks in The North East!"
-excerpt: "Skateparks Filterd by Surface Material<br/><img src='/images/webmapscreenshot.png'>"
+excerpt: "Skateparks by Surface Materials<br/><img
+src='/images/webmapscreenshot.png'>"
 collection: portfolio
 ---
 
