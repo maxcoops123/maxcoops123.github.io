@@ -47,7 +47,14 @@ Reimagine Middle Branch & UMBC Collab
 
 Work experience
 ======
-* Potbelly Sandwich Works, Crew, August 2022-Present
+* PMC, Valet, March 2023 - Present
+  * Front of house at the Westin Hotel in Annapolis
+  * Assisted Customers to check-in and parked cars
+  * Offered information about the area 
+  * Managed all cars in hotel garage
+
+
+* Potbelly Sandwich Works, Crew, August 2022- March 2023
   * Made sandwiches to order and managed cash transactions
   * Managed store inventory
   * Followed standard food service procedures 
