@@ -11,7 +11,7 @@ Using the qgis2web plugin on QGIS i was able to create this interactive web map 
 This map has a few layers you can click on and off in the top right, you can also click on the points to find out more information like what type of material the park is made out off and if there is lights. 
 
 
-<a href="https://maxcoops123.github.io/maxcoops123.github.io/_portfolio/map/index.html" target="_blank">Click here to view my HTML file</a>
+<a href="https://maxcoops123.github.io/_portfolio/map/index.html" target="_blank">Click here to view my HTML file</a>
 
 
 
