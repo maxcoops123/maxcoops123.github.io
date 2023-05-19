@@ -14,7 +14,7 @@ collection: portfolio
    ![Harveyii](/images/PreII.png "Pre NDII Harvey")
    ![Harveyii2](/images/PostII.png "Post NDII Harvey")
      
-   ## Results
+ ## Results
    
    ![Overall](/images/OverallGraphs.png "OverallGraphs")
    
@@ -23,6 +23,6 @@ collection: portfolio
    
 <a href="https://maxcoops123.github.io/portfolio/finalprojectNDVI.html" target="_blank">Full RMD file HTMl</a>
    
-   ## Further Research
+## Further Research
 
   To further analyze storm damage with this system, higher resolution imagery would help and focusing on a specific location would make it easier to look at localized damage. I thought about doing the same thing on Tornado damge, as they are very destructive on the ground, but finding imagery that is high resolution would be difficult. Doing any kind of damage anaysis needs some sort of vegetation index to get a quick overview of the damage. NDVI is the old reliable way of doing this and will most likley rain supreme in vegetation anaylsis.
