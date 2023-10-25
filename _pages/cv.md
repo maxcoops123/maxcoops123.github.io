@@ -11,7 +11,7 @@ redirect_from:
 
 Objective
 ======
-Seeking to continue developing my GIS skills and environmental expertise in various fields such as Ecology, conservation, remote sensing, GIS, and atmospheric sciences. Experience in field work will further my understanding of the data that I work with, looking to apply everything I have learned into real world challenges.
+Seeking to continue developing my GIS skills and environmental expertise in various fields such as Ecology, geography, remote sensing, GIS, and atmospheric sciences. Looking to apply my cartography skills to create high quality and engaging maps. Looking to apply all that I have learned to solve real world problems.
 
 
 
@@ -44,6 +44,15 @@ Reimagine Middle Branch & UMBC Collab
 * Recreated various maps important to organizations mission
 * Large data organization and analysis
 * https://storymaps.arcgis.com/stories/3a6ac2b066b049d4be0caa6976bcaef0
+
+Hurricane Damage Analysis Using Landsat	
+*	Using Landsat 8 NIR and Red Bands to see if NDVI values had significant changes after a major hurricane
+*	R-Studio was used to generate maps and run analysis of each chosen region
+*	Results showed a decrease in NDVI values across multiple regions of different ecosystems
+
+Forest Edge Effect Influence on English Ivy Growth Patterns   
+*	Surveyed local protected forest for English Ivy presence, and tried to determine if forest edge effect had any influence on its growth patterns.
+*	Did analysis on tree basal area and tree density to see if the Ivy was growing in higher concentrations based on those factors.
 
 Work experience
 ======
