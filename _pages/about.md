@@ -9,9 +9,7 @@ redirect_from:
 ---
 Welcome to my website!
 
-A littel bit about me, I am a Geography and Environmental Systems Major From UMBC. I have spent my college years learning about Ecology, Meteorology, GIS, Climate Science, and much more. At the top of the page you will see various links to things like my resume and a little portfolio of a few things i have worked on. I have expereince working with lots of GIS programs like ArcPro, ArcGIS Online, QGIS, Rstudio, and Github. 
-
-Hello and welcome to my website! My name is Max Cooper and I recently graduated from UMBC with a B.S. in Geography and Environmental Systems I also recieved my certificate in GIS science. During my studies, I developed a strong foundation in GIS and remote sensing, working with various software such as ArcPro, ArcGIS Online, QGIS, RStudio, Envi, and more. I'm passionate about all things environmental and have a particular interest in remote sensing and meteorology.
+A little bit about me, I am a Geography and Environmental Systems Major From UMBC. I have spent my college years learning about Ecology, Meteorology, GIS, Climate Science, and much more. At the top of the page you will see various links to things like my resume and a little portfolio of a few things i have worked on. I have expereince working with lots of GIS programs like ArcPro, ArcGIS Online, QGIS, Rstudio, and Github. 
 
 In addition to my academic pursuits, I enjoy pursuing various outdoor activities. You'll often find me skateboarding, snowboarding, or surfing, depending on the season. When I'm not outdoors, I like to hit the gym and lift weights to stay fit and healthy.
 
