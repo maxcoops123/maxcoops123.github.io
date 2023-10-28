@@ -43,7 +43,7 @@ Reimagine Middle Branch & UMBC Collab
 * Created an ArcStory report summarizing RMB's executive summary 
 * Recreated various maps important to organizations mission
 * Large data organization and analysis
-Check out the Full Project [here](https://storymaps.arcgis.com/stories/3a6ac2b066b049d4be0caa6976bcaef0)
+* Check out the Full Project [here](https://storymaps.arcgis.com/stories/3a6ac2b066b049d4be0caa6976bcaef0)
 
 Hurricane Damage Analysis Using Landsat	
 *	Using Landsat 8 NIR and Red Bands to see if NDVI values had significant changes after a major hurricane
